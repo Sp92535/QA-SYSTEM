@@ -1,0 +1,7 @@
+.env
+venv
+storage
+QApplication.egg-info
+dist
+build
+__pycache__
